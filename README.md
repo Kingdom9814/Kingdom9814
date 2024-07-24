@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kingdom9814
 - 👀 I’m interested building my small business  ...
-- 🌱 I’m currently learning ... linux,CMD,ios
+- 🌱 I’m currently learning ... linux,cmd,ios,android 
 - 💞️ I’m looking to collaborate on ... cell phone unlocking 
 - 📫 How to reach me ... kingdom9814@gmail.com
 - 😄 Pronouns: ...
